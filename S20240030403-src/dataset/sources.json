@@ -1,0 +1,28 @@
+{
+  "dataset_archive": "dataset_ir.zip",
+  "source_information": "No source URLs or provenance metadata were supplied inside dataset_ir.zip. Original filenames and contents are preserved.",
+  "documents": {
+    "doc00.txt": {
+      "archive_path": "dataset_ir/doc00.txt",
+      "encoding": "UTF-8"
+    },
+    "doc01.txt": {
+      "archive_path": "dataset_ir/doc01.txt",
+      "encoding": "UTF-8"
+    },
+    "doc02.txt": {
+      "archive_path": "dataset_ir/doc02.txt",
+      "encoding": "UTF-8"
+    },
+    "doc03.txt": {
+      "archive_path": "dataset_ir/doc03.txt",
+      "encoding": "UTF-8"
+    },
+    "doc04.txt": {
+      "archive_path": "dataset_ir/doc04.txt",
+      "encoding": "UTF-8"
+    }
+  },
+  "student_provided_context": "The student identifies these five supplied files as a sample from a much larger IIT Bombay Hindi-English (Hi-En) and English-Hindi (En-Hi) dataset. This relationship is user-provided context; the archive itself contains no formal citation, release identifier, licence, source URL, or alignment metadata.",
+  "indexing_scope": "Both Hindi Devanagari and English Latin-script lexical tokens are indexed; the full larger corpus is not included."
+}

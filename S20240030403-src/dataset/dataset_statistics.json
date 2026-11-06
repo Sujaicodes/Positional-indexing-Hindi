@@ -1,0 +1,79 @@
+{
+  "archive": "dataset_ir.zip",
+  "archive_entries": 6,
+  "files": 5,
+  "usable_documents": 5,
+  "formats": {
+    "txt": 5
+  },
+  "encoding": "UTF-8",
+  "nested_directories": false,
+  "empty_documents": 0,
+  "decode_failures": 0,
+  "documents": [
+    {
+      "doc_id": "doc00",
+      "file": "doc00.txt",
+      "bytes": 272880,
+      "lines": 5000,
+      "characters": 111406,
+      "devanagari_characters": 78176,
+      "hindi_tokens": 19100,
+      "english_tokens": 2055,
+      "indexed_tokens_total": 21155
+    },
+    {
+      "doc_id": "doc01",
+      "file": "doc01.txt",
+      "bytes": 248989,
+      "lines": 5001,
+      "characters": 116201,
+      "devanagari_characters": 63884,
+      "hindi_tokens": 14020,
+      "english_tokens": 4450,
+      "indexed_tokens_total": 18470
+    },
+    {
+      "doc_id": "doc02",
+      "file": "doc02.txt",
+      "bytes": 230292,
+      "lines": 5001,
+      "characters": 91566,
+      "devanagari_characters": 66851,
+      "hindi_tokens": 13987,
+      "english_tokens": 1615,
+      "indexed_tokens_total": 15602
+    },
+    {
+      "doc_id": "doc03",
+      "file": "doc03.txt",
+      "bytes": 232549,
+      "lines": 4999,
+      "characters": 91909,
+      "devanagari_characters": 67806,
+      "hindi_tokens": 14426,
+      "english_tokens": 1524,
+      "indexed_tokens_total": 15950
+    },
+    {
+      "doc_id": "doc04",
+      "file": "doc04.txt",
+      "bytes": 235120,
+      "lines": 5000,
+      "characters": 92957,
+      "devanagari_characters": 68567,
+      "hindi_tokens": 14432,
+      "english_tokens": 1515,
+      "indexed_tokens_total": 15947
+    }
+  ],
+  "total_bytes": 1219830,
+  "total_hindi_tokens": 75965,
+  "vocabulary_size": 2491,
+  "source_urls_provided": false,
+  "language_assessment": "All five documents contain substantial Devanagari text; content is Hindi-heavy software/interface localization with some Latin-script text.",
+  "tokenizer": "NFC-normalized Devanagari Hindi and Latin-script English lexical tokens; punctuation, whitespace, numerals and symbols delimit tokens.",
+  "total_english_tokens": 11159,
+  "total_indexed_tokens": 87124,
+  "index_scope": "Bilingual Hindi-English lexical index over the five supplied sample documents; not the complete IIT Bombay corpus."
+}

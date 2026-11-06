@@ -1,4 +1,0 @@
-# Core indexing, querying, and tests use only the Python standard library.
-# Optional legacy crawler dependencies:
-requests>=2.31.0
-beautifulsoup4>=4.12.0

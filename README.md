@@ -1,10 +1,9 @@
 # HINDI-ENGLISH DISK-BASED POSITIONAL INVERTED INDEX
 
-Student roll number : S20240030403
 Project             : Disk-Based Positional Inverted Index with Ranking
 Programming language: Python 3.10+
 Indexed scripts     : Hindi (Devanagari) and English (Latin)
-Dataset archive     : dataset_ir.zip (provided by the student)
+Dataset archive     : IITB hi-en.hi
 
 ## READ THIS FIRST
 This guide assumes you are new to Information Retrieval and Python projects.

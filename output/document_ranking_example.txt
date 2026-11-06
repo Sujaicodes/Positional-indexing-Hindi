@@ -1,0 +1,32 @@
+EXAMPLE DOCUMENT RANKING
+============================
+Query: परियोजना में जोड़ें
+Method: BM25 (Okapi BM25)
+Top 5 matching documents:
+
+Rank 1: doc02
+BM25 score: 1.135946
+Matched query terms: परियोजना, में, जोड़ें
+Document length: 15602 tokens
+
+Rank 2: doc01
+BM25 score: 1.134274
+Matched query terms: परियोजना, में, जोड़ें
+Document length: 18470 tokens
+
+Rank 3: doc03
+BM25 score: 1.134141
+Matched query terms: परियोजना, में, जोड़ें
+Document length: 15950 tokens
+
+Rank 4: doc04
+BM25 score: 1.132273
+Matched query terms: परियोजना, में, जोड़ें
+Document length: 15947 tokens
+
+Rank 5: doc00
+BM25 score: 0.417487
+Matched query terms: में, जोड़ें
+Document length: 21155 tokens
+
+Interpretation: higher BM25 scores indicate a stronger query-document match under this ranking model. Scores are query-dependent; a document ranking is meaningful only together with its query.

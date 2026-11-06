@@ -1,0 +1,22 @@
+TOP 5 TERMS BY COLLECTION FREQUENCY (CF)
+================================================
+Rank | Term | Language | CF | DF
+------------------------------------------------
+1 | को | hi | 2748 | 5
+2 | करें | hi | 1940 | 5
+3 | के | hi | 1930 | 5
+4 | का | hi | 1837 | 5
+5 | फ़ाइल | hi | 1753 | 5
+
+TOP 5 TERMS BY DOCUMENT FREQUENCY (DF)
+==========================================
+Rank | Term | Language | DF | CF
+------------------------------------------
+1 | को | hi | 5 | 2748
+2 | करें | hi | 5 | 1940
+3 | के | hi | 5 | 1930
+4 | का | hi | 5 | 1837
+5 | फ़ाइल | hi | 5 | 1753
+
+Ranking rule: primary metric descending, secondary metric descending, term ascending for deterministic ties.
+Note: in this five-document sample, each of these top five terms occurs in all five documents, so their DF values tie at 5.

@@ -1,0 +1,7 @@
+Automated test command: python -m unittest discover -s tests -v
+Result: 13 tests passed, 0 failures.
+Executed against the bilingual Hindi-English index.
+Coverage: Hindi-English tokenization, Unicode NFC, CF/DF, positional retrieval,
+multiple occurrences, phrase search, missing terms, disk offsets, bilingual
+positions, top-CF/DF term ranking, BM25 document ranking, and vocabulary /
+postings consistency.

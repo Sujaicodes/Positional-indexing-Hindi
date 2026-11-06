@@ -1,0 +1,21 @@
+{
+  "documents": 5,
+  "vocabulary_size": 2491,
+  "total_tokens": 87124,
+  "language_token_counts": {
+    "hi": 75965,
+    "en": 11159
+  },
+  "document_lengths": {
+    "doc00": 21155,
+    "doc01": 18470,
+    "doc02": 15602,
+    "doc03": 15950,
+    "doc04": 15947
+  },
+  "average_document_length": 17424.8,
+  "builder": "SPIMI-style sorted block runs with term-wise merge",
+  "block_posting_limit": 50000,
+  "tokenization": "NFC-normalized Hindi Devanagari and English Latin-script lexical tokens",
+  "position_convention": "1-indexed positions over the complete Hindi-English lexical token stream"
+}
